@@ -57,4 +57,6 @@ console.log(f  >> 90);
 
 let k= 70;
 console.log(k & 35);
+
+//NO 4//
 NO 4 answer: 1,8 and 15
